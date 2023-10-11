@@ -1,0 +1,4 @@
+#separator:tab
+#html:true
+Az alább felsoroltak közül melyik nem jellemző a társadalmi és jogi normákra?<br>a) A hipotetikus szerkezet.<br>b) A szankció.<br>c) A múltra irányultság.<br>d) Mindegyik jellemző.	c) A múltra irányultság.
+Az alábbiak közül melyik nem tartozik a társadalmi normák lényeges mozzanatai közé?<br>a) A magatartás leírása.<br>b) A magatartás minősítése. (tilos, kötelező stb.)<br>c) A következmények leírása.<br>d) Mindegyik oda tartozik.	d) Mindegyik oda tartozik.

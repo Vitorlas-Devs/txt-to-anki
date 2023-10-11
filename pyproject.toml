@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "txt-to-anki"
+version = "0.1.0"
+description = ""
+authors = ["Hegyi Áron Ferenc <hegyi.aron101@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{ include = "txt_to_anki" }]
+
+[tool.poetry.dependencies]
+python = "3.11"
+
+
+[tool.poetry.group.dev.dependencies]
+openai = "^0.28.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
