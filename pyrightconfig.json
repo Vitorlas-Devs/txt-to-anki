@@ -1,5 +1,5 @@
 {
     "ignore": [
-        "gpt.py"
+        "src/gpt.py"
     ]
 }
