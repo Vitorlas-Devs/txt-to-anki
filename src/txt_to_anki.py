@@ -20,14 +20,7 @@ class TxtToAnki:
             chapters[i] = chapters[i].strip("-").strip()
 
         regex = r"^\d+_.+$"
-
         chapter_titles = [chapter for chapter in chapters if re.match(regex, chapter)]
-
-        for i in range(len(chapter_titles)):
-            chapter_titles[i] = (
-                chapter_titles[i][:2] + "." + chapter_titles[i][2:]
-            ).replace("_", " ")
-
         chapters = [chapter for chapter in chapters if not re.match(regex, chapter)]
 
         for i in range(len(chapter_titles)):
