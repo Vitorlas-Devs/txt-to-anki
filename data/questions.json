@@ -1,0 +1,1802 @@
+[
+	{
+		"question": "Az alább felsoroltak közül melyik nem jellemző a társadalmi és jogi normákra?",
+		"answers": [
+			{"answer": "A hipotetikus szerkezet.", "rigth": false },
+			{"answer": "A szankció.", "rigth": false },
+			{"answer": "A múltra irányultság.", "rigth": true },
+			{"answer": "Mindegyik jellemző.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem tartozik a társadalmi normák lényeges mozzanatai közé?",
+		"answers": [
+			{"answer": "A magatartás leírása.", "rigth": false },
+			{"answer": "A magatartás minősítése. (tilos, kötelező stb.)", "rigth": false },
+			{"answer": "A következmények leírása.", "rigth": false },
+			{"answer": "Mindegyik oda tartozik.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás a legjellemzőbb a jogi normákra?",
+		"answers": [
+			{"answer": "A társadalom alkotja, érvényesülését az állam biztosítja.", "rigth": false },
+			{"answer": "Az állam alkotja, érvényesülését az állam biztosítja.", "rigth": true },
+			{"answer": "Az állam alkotja, érvényesülését a társadalom biztosítja.", "rigth": false },
+			{"answer": "A társadalom alkotja, érvényesülését a társadalom biztosítja.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi 3 állítás közül melyik hamis?",
+		"answers": [
+			{"answer": "A jogi normákat gyorsabban meg lehet változtatni, mint az erkölcsi normákat.", "rigth": false },
+			{"answer": "Az erkölcsi normák szankciórendszerét a társadalmi nyomás jellemzi.", "rigth": false },
+			{"answer": "A jogi norma az emberek formális magatartására irányul.", "rigth": false },
+			{"answer": "Mindhárom előző állítás igaz.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbi 3 állítás közül melyik hamis?",
+		"answers": [
+			{"answer": "Az erkölcsi normákat gyorsabban meg lehet változtatni, mint a jogi normákat.", "rigth": true },
+			{"answer": "Az erkölcsi normák szankciórendszerét a társadalmi nyomás jellemzi.", "rigth": false },
+			{"answer": "A jogi norma az emberek formális magatartására irányul.", "rigth": false },
+			{"answer": "Mindhárom előző állítás igaz.", "rigth": false }
+		]
+	},
+	{
+		"question": "Hányféle módját ismerjük a jogképződésnek, a jogi normák létrejöttének? Sorolja is fel ezeket.",
+		"answers": [
+			{"answer": "2 jogalkalmazói (bírói), jogalkotói", "rigth": false },
+			{"answer": "3 szokásjogi, jogalkalmazói (bírói), jogalkotói", "rigth": true },
+			{"answer": "4 szokásjogi, vallásjogi, jogalkalmazói (bírói), jogalkotói", "rigth": false },
+			{"answer": "5 szokásjogi, vallásjogi, jogalkalmazói (bírói), jogalkotói, jogtudományi", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik jogképződési mód során jön létre a precedensjog?",
+		"answers": [
+			{"answer": "Szokásjogi jogképződés útján.", "rigth": false },
+			{"answer": "Jogalkalmazói jogképződés útján.", "rigth": true },
+			{"answer": "Jogalkotói jogképződés útján.", "rigth": false },
+			{"answer": "Megyegyezés útján.", "rigth": false }
+		]
+	},
+	{
+		"question": "A jog melyik funkciójának megvalósítását biztosítja elsősorban a bírósági szervezet?",
+		"answers": [
+			{"answer": "Az integráló funkciót.", "rigth": false },
+			{"answer": "A konfliktus-feloldó funkciót.", "rigth": true },
+			{"answer": "A társadalomszervező funkciót.", "rigth": false },
+			{"answer": "Egyik funkció megvalósítását sem biztosítja.", "rigth": false }
+		]
+	},
+	{
+		"question": "A jog melyik funkciójának megvalósítását biztosítják elsősorban a közigazgatási hatóságok?",
+		"answers": [
+			{"answer": "Az integráló funkciót.", "rigth": false },
+			{"answer": "A konfliktus-feloldó funkciót.", "rigth": false },
+			{"answer": "A társadalomszervező funkciót.", "rigth": true },
+			{"answer": "Egyik funkció megvalósítását sem biztosítják.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi 3 állítás közül melyik hamis?",
+		"answers": [
+			{"answer": "Az anyagi jogforrás azt a szervet jelenti, amelytől a jogi norma ered.", "rigth": false },
+			{"answer": "Az alaki jogforrás azt a formát jelenti, amelyben a jogi norma megjelenik.", "rigth": false },
+			{"answer": "Elsődleges jogforrás maga a jogalkotó hatalom, az állam.", "rigth": false },
+			{"answer": "Mindhárom előző állítás igaz.", "rigth": true }
+		]
+	},
+	{
+		"question": "Mit mond ki a \"Lex superior derogat legi inferiori\" alapelv?",
+		"answers": [
+			{"answer": "A később megalkotott jogszabály a korábbinak a hatályát lerontja.", "rigth": false },
+			{"answer": "A speciális jogszabályt kell alkalmazni az általánossal szemben.", "rigth": false },
+			{"answer": "Alacsonyabb szintű jogszabály nem ellenkezhet magasabb szintűvel.", "rigth": true },
+			{"answer": "Jogszabállyal ellentétes másik jogszabályt nem lehet alkotni.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mit mond ki a \"Lex posterior derogat legi priori\" alapelv?",
+		"answers": [
+			{"answer": "A később megalkotott jogszabály a korábbinak a hatályát lerontja.", "rigth": true },
+			{"answer": "A speciális jogszabályt kell alkalmazni az általánossal szemben.", "rigth": false },
+			{"answer": "Alacsonyabb szintű jogszabály nem ellenkezhet magasabb szintűvel.", "rigth": false },
+			{"answer": "Jogszabállyal ellentétes másik jogszabályt nem lehet alkotni.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mit mond ki a \"Lex specialis derogat legi generali\" alapelv?",
+		"answers": [
+			{"answer": "A később megalkotott jogszabály a korábbinak a hatályát lerontja.", "rigth": false },
+			{"answer": "A speciális jogszabályt kell alkalmazni az általánossal szemben.", "rigth": true },
+			{"answer": "Alacsonyabb szintű jogszabály nem ellenkezhet magasabb szintűvel.", "rigth": false },
+			{"answer": "Jogszabállyal ellentétes másik jogszabályt nem lehet alkotni.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi jogszabályok közül melyik tartozik az anyagi jog körébe?",
+		"answers": [
+			{"answer": "A büntetőeljárásról szóló törvény.", "rigth": false },
+			{"answer": "A polgári eljárásról szóló törvény.", "rigth": false },
+			{"answer": "Az általános közigazgatási rendtartásról szóló törvény.", "rigth": false },
+			{"answer": "Egyik sem.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbi jogszabályok közül melyik tartozik az anyagi jog körébe?",
+		"answers": [
+			{"answer": "A büntetőeljárásról szóló törvény.", "rigth": false },
+			{"answer": "A polgári törvénykönyv.", "rigth": true },
+			{"answer": "Az általános közigazgatási rendtartásról szóló törvény.", "rigth": false },
+			{"answer": "Egyik sem.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi jogszabályok közül melyik tartozik az alaki jog körébe?",
+		"answers": [
+			{"answer": "A büntető törvénykönyv.", "rigth": false },
+			{"answer": "A büntetőeljárásról szóló törvény.", "rigth": true },
+			{"answer": "A polgári törvénykönyv.", "rigth": false },
+			{"answer": "A munka törvénykönyve.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A polgári jog a közjog területéhez tartozik.", "rigth": false },
+			{"answer": "A büntetőjog a magánjog területéhez tartozik.", "rigth": false },
+			{"answer": "A kereskedelmi jog a magánjog területéhez tartozik.", "rigth": true },
+			{"answer": "A közigazgatási jog a magánjog területéhez tartozik.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mit nevezünk joghézagnak?",
+		"answers": [
+			{"answer": "Amikor a bíróság nem tud választani két alkalmazandó jogszabály közül.", "rigth": false },
+			{"answer": "Amikor két jogszabály egymásnak ellentmondó.", "rigth": false },
+			{"answer": "Amikor a jog nem tartalmaz választ egy adott kérdésre.", "rigth": true },
+			{"answer": "Amikor nincs olyan bíróság, amelyik dönthetne egy adott kérdésben.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik jogág szabályozási körébe tartozik a gyülekezési jog?",
+		"answers": [
+			{"answer": "Polgári jog.", "rigth": false },
+			{"answer": "Alkotmányjog.", "rigth": true },
+			{"answer": "Munkajog.", "rigth": false },
+			{"answer": "Közigazgatási jog.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz az angolszász jogrendszerekre?",
+		"answers": [
+			{"answer": "A jogalkotás és jogalkalmazás szférája mereven elválik egymástól.", "rigth": false },
+			{"answer": "A szabályok jelentős része nincs törvénybe foglalva.", "rigth": true },
+			{"answer": "E jogrendszerek pillérei az írott jogforrások.", "rigth": false },
+			{"answer": "A joganyag önálló, zárt rendszert alkot.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik jogrendszerre a leginkább jellemző, hogy politikailag erősen kötött?",
+		"answers": [
+			{"answer": "Az angolszász jogrendszerekre.", "rigth": false },
+			{"answer": "A szocialista jogrendszerekre.", "rigth": true },
+			{"answer": "A kontinentális jogrendszerekre.", "rigth": false },
+			{"answer": "A vallási alapú jogrendszerekre.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz a kontinentális jogrendszerekre?",
+		"answers": [
+			{"answer": "A bírónak jelentős szerepe van a jogalkotásban.", "rigth": false },
+			{"answer": "A jogszabályok kevésbé elvontak és általánosak.", "rigth": false },
+			{"answer": "A joganyag önálló, zárt rendszert alkot.", "rigth": true },
+			{"answer": "A jogszabályok egy-egy vitás ügy eldöntésekor keletkeznek.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás nem igaz a szocialista jogrendszerekre vonatkozóan?",
+		"answers": [
+			{"answer": "A politika közvetlenül befolyásolja a jogot.", "rigth": false },
+			{"answer": "A magánjognak kisebb a jelentősége.", "rigth": false },
+			{"answer": "A jogi túlszabályozás jellemző.", "rigth": false },
+			{"answer": "Mindegyik fenti állítás igaz rá.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás nem igaz a szocialista jogrendszerekre vonatkozóan?",
+		"answers": [
+			{"answer": "A politika közvetlenül befolyásolja a jogot.", "rigth": false },
+			{"answer": "A magánjognak nagy jelentősége van.", "rigth": true },
+			{"answer": "A jogi túlszabályozás jellemző.", "rigth": false },
+			{"answer": "Mindegyik fenti állítás igaz rá.", "rigth": false }
+		]
+	},
+	{
+		"question": "A tényeknek olyan összessége, amelyhez valamilyen joghatás fűződik, ...",
+		"answers": [
+			{"answer": "a jogi norma diszpozíciója.", "rigth": false },
+			{"answer": "a jogi norma szankciója.", "rigth": false },
+			{"answer": "a jogi norma hipotézise.", "rigth": true },
+			{"answer": "a jogi norma jogkövetkezménye.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az a magatartási szabály, amelyet a jogalkotó a jogalany számára előír, ...",
+		"answers": [
+			{"answer": "a jogi norma diszpozíciója.", "rigth": true },
+			{"answer": "a jogi norma szankciója.", "rigth": false },
+			{"answer": "a jogi norma hipotézise.", "rigth": false },
+			{"answer": "a jogi norma jogkövetkezménye.", "rigth": false }
+		]
+	},
+    {
+		"question": "Egészítse ki a kipontozott részt. A ... esetén a jogalkotó nem határozza meg, hogy mely tényállás esetén szükséges a normában meghatározott magatartást tanúsítani, csupán példaszerűen felsorolja azokat.",
+		"answers": [
+			{"answer": "zárt tényállás", "rigth": false },
+			{"answer": "nyitott tényállás", "rigth": true },
+			{"answer": "parancsoló norma", "rigth": false },
+			{"answer": "diszpozitív norma", "rigth": false }
+		]
+	},
+	{
+		"question": "Milyenfajta rendelkezés nem fordulhat elő a jogi norma diszpozíciójában?",
+		"answers": [
+			{"answer": "tiltó", "rigth": false },
+			{"answer": "parancsoló", "rigth": false },
+			{"answer": "megengedő", "rigth": false },
+			{"answer": "mindhárom előfordulhat", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A lopás bűncselekménye mindig vagyoni jellegű szankciót von maga után.", "rigth": false },
+			{"answer": "A jogi norma megsértése nem járhat személyi jellegű szankcióval.", "rigth": false },
+			{"answer": "A szankció egyidejűleg mindig csak egyféle joghátrányt alkalmazhat.", "rigth": false },
+			{"answer": "Az érvénytelenség a szankciók egyik típusa.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Az apaság vélelme nem megdönthető.", "rigth": false },
+			{"answer": "A fikció esetén lehetőség van az ellenkező bizonyítására.", "rigth": false },
+			{"answer": "A 14. életévét be nem töltött személy cselekvőképtelenségének vélelme megdönthető.", "rigth": false },
+			{"answer": "A vélelem legfontosabb jogi következménye a bizonyítási teher megfordítása.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Az apaság vélelme megdönthető.", "rigth": true },
+			{"answer": "A fikció esetén lehetőség van az ellenkező bizonyítására.", "rigth": false },
+			{"answer": "A 14. életévét be nem töltött személy cselekvőképtelenségének vélelme megdönthető.", "rigth": false },
+			{"answer": "A fikció legfontosabb jogi következménye a bizonyítási teher megfordítása.", "rigth": false }
+		]
+	},
+	{
+		"question": "Egy jogszabály érvényességének hány feltétele van? Sorolja is fel ezeket.",
+		"answers": [
+			{"answer": "3, a következők: megfelelő szerv; megfelelő eljárás; kihirdetés;", "rigth": false },
+			{"answer": "4, a következők: megfelelő szerv; megfelelő eljárás; kihirdetés; hierarchiába illeszkedés", "rigth": true },
+			{"answer": "2, a következők: megfelelő eljárás; kihirdetés", "rigth": false },
+			{"answer": "5, a következők: megfelelő szerv; megfelelő eljárás; kihirdetés; hierarchiába illeszkedés; nemzetközi jóváhagyás", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A jogszabály időbeli hatálya nem lehet visszamenőleges.", "rigth": false },
+			{"answer": "A magyar jogszabályok területi hatálya Magyarország teljes területe.", "rigth": false },
+			{"answer": "Egy jogszabály lehet egyidejűleg érvényes, de nem hatályos.", "rigth": true },
+			{"answer": "Egy jogszabály lehet egyidejűleg hatályos és érvénytelen.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Egy magyar jogszabály minden magyar állampolgárra vonatkozik.", "rigth": false },
+			{"answer": "Egy jogszabály csak a jövőre vonatkozóan állapíthat meg kötelezettséget.", "rigth": true },
+			{"answer": "A személyi hatály azt határozza meg, hogy ki alkotta a jogszabályt.", "rigth": false },
+			{"answer": "Egy magyar jogszabály csak magyar állampolgárokra vonatkozik.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Egy jogszabály nem érvényes, ha a köztársasági elnök nem írta alá.", "rigth": false },
+			{"answer": "Egy törvény nem érvényes, ha ellenkezik egy rendelettel.", "rigth": false },
+			{"answer": "Egy jogszabály nem érvényes, ha nem hirdették ki.", "rigth": true },
+			{"answer": "Mindhárom fenti állítás hamis.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Egy jogszabály nem érvényes, ha a köztársasági elnök nem írta alá.", "rigth": false },
+			{"answer": "Egy rendelet nem érvényes, ha ellenkezik egy törvénnyel.", "rigth": true },
+			{"answer": "Egy jogszabály akkor is érvényes, ha nem hirdették ki.", "rigth": false },
+			{"answer": "Mindhárom fenti állítás hamis.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A jogszabályok tudományos értelmezésének csak az adott ügyben van kötelező ereje.", "rigth": false },
+			{"answer": "A jogalkotói jogszabály értelmezés minden címzettre nézve kötelező.", "rigth": true },
+			{"answer": "A jogalkalmazói jogszabály értelmezésnek nincs kötelező ereje.", "rigth": false },
+			{"answer": "A jogalkotói jogszabály értelmezés tilos.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A közigazgatási szervek eljárása mindig kezdeményezésre indul.", "rigth": false },
+			{"answer": "A jogalanyok önkéntes jogkövetését is jogalkalmazásnak tekintjük.", "rigth": true },
+			{"answer": "A jogalkalmazás célja mindig valamilyen jogsérelem orvoslása.", "rigth": false },
+			{"answer": "A jogalkalmazás utolsó lépése a tényállás megállapítása.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik nem következhet be a jogalkalmazás eredményeképpen?",
+		"answers": [
+			{"answer": "Jogviszony keletkezése.", "rigth": false },
+			{"answer": "Jogviszony megszűnése.", "rigth": false },
+			{"answer": "Jogviszony módosulása.", "rigth": false },
+			{"answer": "Mindhárom fenti bekövetkezhet.", "rigth": true }
+		]
+	},
+	{
+		"question": "Mely szerv biztosítja a bíróságok egységes jogalkalmazását?",
+		"answers": [
+			{"answer": "Az alkotmánybíróság.", "rigth": false },
+			{"answer": "A törvényszék.", "rigth": false },
+			{"answer": "Az ítélőtábla.", "rigth": false },
+			{"answer": "A Kúria.", "rigth": true }
+		]
+	},
+	{
+		"question": "Mely szerv biztosítja a bíróságok egységes jogalkalmazását?",
+		"answers": [
+			{"answer": "Az alkotmánybíróság.", "rigth": false },
+			{"answer": "Az ítélőtábla.", "rigth": false },
+			{"answer": "A Kúria.", "rigth": true },
+			{"answer": "Egyik sem.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik nem tartozik a jogszabály értelmezésének módszerei közé?",
+		"answers": [
+			{"answer": "A rendszertani értelmezés.", "rigth": false },
+			{"answer": "A történeti értelmezés.", "rigth": false },
+			{"answer": "A módszertani értelmezés.", "rigth": true },
+			{"answer": "A logikai értelmezés.", "rigth": false }
+		]
+	},
+	{
+		"question": "A jogviszony szerkezeti elemei közé tartozik",
+		"answers": [
+			{"answer": "a jogviszony helye.", "rigth": false },
+			{"answer": "a jogviszony ideje.", "rigth": false },
+			{"answer": "a jogviszony tartalma.", "rigth": true },
+			{"answer": "Egyik sem.", "rigth": false }
+		]
+	},
+	{
+		"question": "Ingatlan adásvételi szerződés esetén a jogviszony tárgya",
+		"answers": [
+			{"answer": "a vételár kifizetése.", "rigth": false },
+			{"answer": "a tulajdonjog átruházása.", "rigth": false },
+			{"answer": "az ingatlan.", "rigth": true },
+			{"answer": "Egyik sem.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A kötelmi jogban a relatív szerkezetű jogviszonyok jellemzők.", "rigth": false },
+			{"answer": "A tulajdonjog abszolút szerkezetű jogviszony.", "rigth": false },
+			{"answer": "Ha több, mint 2 fél szerepel a szerződésben, az abszolút szerkezetű jogviszonyt eredményez.", "rigth": true },
+			{"answer": "A károkozás relatív szerkezetű jogviszonyt teremt.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem rendelkezik jogi személyiséggel?",
+		"answers": [
+			{"answer": "Az Állam.", "rigth": false },
+			{"answer": "Az egyesület.", "rigth": false },
+			{"answer": "A társasház.", "rigth": true },
+			{"answer": "Mindegyik rendelkezik.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak (a,b,c) közül melyik nem rendelkezik jogi személyiséggel?",
+		"answers": [
+			{"answer": "Az Állam.", "rigth": false },
+			{"answer": "Az egyesület.", "rigth": false },
+			{"answer": "Az egyetem.", "rigth": false },
+			{"answer": "Mindegyik rendelkezik. ", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Együttes kötelezettek bármelyikétől az egész tartozás követelhető.", "rigth": false },
+			{"answer": "Egyetemleges kötelezettek egyidejűleg, de arányosan kötelesek teljesíteni.", "rigth": false },
+			{"answer": "A kezes az adóssal fele-fele arányban köteles teljesíteni a tartozást.", "rigth": false },
+			{"answer": "Mindhárom fenti állítás hamis.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbi 3 állítás közül melyik hamis?",
+		"answers": [
+			{"answer": "Aki jogképes, az önállóan köthet szerződést.", "rigth": true },
+			{"answer": "Aki jogképes, az jogosultságok alanya lehet.", "rigth": false },
+			{"answer": "Aki betöltötte a 14. életévét az jogképes.", "rigth": false },
+			{"answer": "Mindhárom előző állítás igaz.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A jogképesség a születéssel kezdődik.", "rigth": false },
+			{"answer": "A jogképesség mindig a születés előtti 300-adik napon kezdődik.", "rigth": false },
+			{"answer": "A jogképesség mindig a fogamzástól kezdődik.", "rigth": false },
+			{"answer": "A magzat jogképessége feltételes.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A bíróság korlátozhatja a természetes személy jogképességét.", "rigth": false },
+			{"answer": "A Ptk. nem korlátozhatja az ember cselekvőképességét.", "rigth": false },
+			{"answer": "Aki cselekvőképes, az önállóan köthet szerződést.", "rigth": true },
+			{"answer": "Mindhárom fenti állítás hamis.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi 3 állítás közül melyik hamis?",
+		"answers": [
+			{"answer": "17 éves személy is lehet nagykorú.", "rigth": false },
+			{"answer": "17 éves személy is lehet cselekvőképes.", "rigth": false },
+			{"answer": "13 éves személy is lehet korlátozottan cselekvőképes.", "rigth": true },
+			{"answer": "Mindhárom előző állítás igaz.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi 3 állítás közül melyik hamis?",
+		"answers": [
+			{"answer": "A kiskorú személy a házasságkötéssel nagykorúvá válik.", "rigth": false },
+			{"answer": "17 éves személy is lehet cselekvőképes.", "rigth": false },
+			{"answer": "A 13 éves személy minden esetben cselekvőképtelennek minősül.", "rigth": false },
+			{"answer": "Mindhárom előző állítás igaz.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbi 3 állítás közül melyik hamis?",
+		"answers": [
+			{"answer": "Nagykorú személy is lehet cselekvőképtelen.", "rigth": false },
+			{"answer": "Kiskorú személy is lehet korlátozottan cselekvőképes.", "rigth": false },
+			{"answer": "A kiskorú személy házasságkötése minden esetben érvénytelen.", "rigth": true },
+			{"answer": "Mindhárom előző állítás igaz.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mit nem tehet meg önállóan a korlátozottan cselekvőképes kiskorú?",
+		"answers": [
+			{"answer": "Tetszőleges értékű ajándékot adhat.", "rigth": true },
+			{"answer": "Tetszőleges értékű ajándékot elfogadhat.", "rigth": false },
+			{"answer": "Rendelkezhet munkával szerzett jövedelmével.", "rigth": false },
+			{"answer": "Mindhárom fenti jognyilatkozatot megteheti önállóan.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik nem tartozik a gyám feladatai közé?",
+		"answers": [
+			{"answer": "A gyermek gondozása, nevelése.", "rigth": false },
+			{"answer": "A gyermek vagyonának kezelése.", "rigth": false },
+			{"answer": "A gyermek törvényes képviselete.", "rigth": false },
+			{"answer": "Mindhárom fenti a gyám feladatai közé tartozik.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyikkel nem feltétlenül kell rendelkeznie a jogi személynek?",
+		"answers": [
+			{"answer": "Székhellyel.", "rigth": false },
+			{"answer": "Saját vagyonnal.", "rigth": false },
+			{"answer": "Telephellyel.", "rigth": true },
+			{"answer": "Képviselővel.", "rigth": false }
+		]
+	},
+	{
+		"question": "Ki felel a jogi személy tartozásaiért?",
+		"answers": [
+			{"answer": "A vezető tisztségviselő.", "rigth": false },
+			{"answer": "A döntéshozó szerv.", "rigth": false },
+			{"answer": "A tagok és alapítók.", "rigth": false },
+			{"answer": "Egyik sem.", "rigth": true }
+		]
+	},
+	{
+		"question": "Mikor jön létre a jogi személy?",
+		"answers": [
+			{"answer": "A létesítő okirat aláírásakor.", "rigth": false },
+			{"answer": "A bejegyzési kérelem bírósághoz történő benyújtásakor.", "rigth": false },
+			{"answer": "A bírósági nyilvántartásba vétel megtörténtekor.", "rigth": true },
+			{"answer": "A bírósági határozat kézbesítésekor.", "rigth": false }
+		]
+	},
+	{
+		"question": "Ki látja el a jogi személy tulajdonosainak érdekvédelmét?",
+		"answers": [
+			{"answer": "A könyvvizsgáló.", "rigth": false },
+			{"answer": "A vezető tisztségviselő.", "rigth": false },
+			{"answer": "A felügyelőbizottság.", "rigth": true },
+			{"answer": "Egyik sem.", "rigth": false }
+		]
+	},
+	{
+		"question": "Ki látja el a jogi személy törvényes működésének felügyeletét?",
+		"answers": [
+			{"answer": "Az ügyészség.", "rigth": false },
+			{"answer": "A felügyelőbizottság.", "rigth": false },
+			{"answer": "A nyilvántartó bíróság.", "rigth": true },
+			{"answer": "Egyik sem.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "Összeolvadásnál a korábbi jogi személyek megszűnnek.", "rigth": false },
+			{"answer": "Kiválásnál a jogi személy megszűnik.", "rigth": true },
+			{"answer": "Különválásnál a jogi személy megszűnik.", "rigth": false },
+			{"answer": "Átalakulásnál a korábbi jogi személy megszűnik.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik nem tartozik a (jogi személy) jogutód nélküli megszűnés esetei közé?",
+		"answers": [
+			{"answer": "A tagok kimondják a megszűnést.", "rigth": false },
+			{"answer": "A létesítő okiratban meghatározott idő eltelik.", "rigth": false },
+			{"answer": "A jogi személy tartozása meghaladja a vagyonát.", "rigth": true },
+			{"answer": "A jogosult szerv megszünteti.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Alapítvány létrehozásához legalább 10 alapító szükséges.", "rigth": false },
+			{"answer": "Az egyesület megszűnik, ha tagjainak száma tartósan nem éri el a 12 főt.", "rigth": false },
+			{"answer": "Az egyesület átalakulhat alapítvánnyá.", "rigth": false },
+			{"answer": "Egyik fenti állítás sem igaz.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Alapítvány létrehozásához legalább 10 alapító szükséges.", "rigth": false },
+			{"answer": "Az egyesület megszűnik, ha tagjainak száma tartósan nem éri el a 10 főt.", "rigth": true },
+			{"answer": "Az alapítvány átalakulhat egyesületté.", "rigth": false },
+			{"answer": "Egyik fenti állítás sem igaz.", "rigth": false }
+		]
+	},
+	{
+		"question": "Egyesületnél mely esetben kötelező a felügyelőbizottság létrehozása?",
+		"answers": [
+			{"answer": "Ha a tagok több, mint negyede nem természetes személy.", "rigth": false },
+			{"answer": "Ha a tagok létszáma az 50 főt meghaladja.", "rigth": false },
+			{"answer": "Ha a könyvvizsgáló ezt kéri.", "rigth": false },
+			{"answer": "Egyik fenti esetben sem kötelező.", "rigth": true }
+		]
+	},
+	{
+		"question": "Egyesületnél mely esetben kötelező a felügyelőbizottság létrehozása?",
+		"answers": [
+			{"answer": "Ha a tagok több, mint fele nem természetes személy.", "rigth": true },
+			{"answer": "Ha a tagok létszáma az 50 főt meghaladja.", "rigth": false },
+			{"answer": "Ha a könyvvizsgáló ezt kéri.", "rigth": false },
+			{"answer": "Egyik fenti esetben sem kötelező.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Alapítvány nem, de egyesület létrehozható gazdasági tevékenység folytatására.", "rigth": false },
+			{"answer": "Egyesület nem, de alapítvány létrehozható gazdasági tevékenység folytatására.", "rigth": false },
+			{"answer": "Sem egyesület, sem alapítvány nem hozható létre gazdasági tevékenység folytatására.", "rigth": true },
+			{"answer": "Egyesület és alapítvány is létrehozható gazdasági tevékenység folytatására.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik jellemző a kontinentális (német) társasági modellre?",
+		"answers": [
+			{"answer": "Erősen megosztott a tulajdonosi szerkezet.", "rigth": false },
+			{"answer": "Csekély a társasági formaválaszték.", "rigth": false },
+			{"answer": "A társasági szervek élesen elkülönülnek egymástól.", "rigth": true },
+			{"answer": "Egyik sem jellemző.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik nem jellemző az angol-amerikai társasági modellre?",
+		"answers": [
+			{"answer": "A társasági jog szorosan összefonódik a tőkepiac intézményeivel.", "rigth": false },
+			{"answer": "A társaságnak egységes vezető szerve van.", "rigth": false },
+			{"answer": "A könyvvizsgáló szerepe és felelőssége csekély.", "rigth": true },
+			{"answer": "Mindegyik fenti állítás jellemző rá.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik szolgálja a közérdeket a társasági jogban?",
+		"answers": [
+			{"answer": "A diszpozitív szabályozás.", "rigth": false },
+			{"answer": "A cégnyilvánosság elve.", "rigth": true },
+			{"answer": "A választott bírósági eljárás igénybevételének lehetősége.", "rigth": false },
+			{"answer": "Egyik sem.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik társasági forma nem hozható létre egyszemélyes gazdasági társaságként?",
+		"answers": [
+			{"answer": "Egyszemélyes korlátolt felelősségű társaság.", "rigth": false },
+			{"answer": "Egyszemélyes betéti társaság.", "rigth": true },
+			{"answer": "Egyszemélyes részvénytársaság.", "rigth": false },
+			{"answer": "Mindhárom forma létrehozható.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik társasági forma hozható létre egyszemélyes gazdasági társaságként?",
+		"answers": [
+			{"answer": "Egyszemélyes betéti társaság.", "rigth": false },
+			{"answer": "Egyszemélyes korlátolt felelősségű társaság.", "rigth": true },
+			{"answer": "Egyszemélyes közkereseti társaság.", "rigth": false },
+			{"answer": "Egyik sem hozható létre.", "rigth": false }
+		]
+	},
+	{
+		"question": "Hány tag alapíthat közkereseti társaságot?",
+		"answers": [
+			{"answer": "Legalább egy beltag.", "rigth": false },
+			{"answer": "Legalább egy beltag és egy kültag.", "rigth": false },
+			{"answer": "Legalább két tag.", "rigth": true },
+			{"answer": "Legalább két beltag.", "rigth": false }
+		]
+	},
+	{
+		"question": "Milyen célt szolgál a társasági formakényszer?",
+		"answers": [
+			{"answer": "A hitelezők védelmét.", "rigth": false },
+			{"answer": "A kisebbségi jogok védelmét.", "rigth": false },
+			{"answer": "A társulási szabadság érvényre jutását.", "rigth": false },
+			{"answer": "A közérdeket.", "rigth": true }
+		]
+	},
+	{
+		"question": "Hányféle társasági formában alapítható gazdasági társaság? Sorolja is fel őket.",
+		"answers": [
+			{"answer": "3, a következők: Bt., Kft., Zrt.", "rigth": false },
+			{"answer": "4, a következők: Kkt., Bt., Kft., Zrt.", "rigth": true },
+			{"answer": "5, a következők: Kkt., Bt., Kft., Zrt., Nyrt.", "rigth": false },
+			{"answer": "Egyik fenti válasz sem megfelelő", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik szervezet nem rendelkezik jogi személyiséggel?",
+		"answers": [
+			{"answer": "A korlátolt felelősségű társaság.", "rigth": false },
+			{"answer": "A betéti társaság.", "rigth": false },
+			{"answer": "A részvénytársaság.", "rigth": false },
+			{"answer": "Mindegyik rendelkezik.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik szervezet nem rendelkezik jogi személyiséggel?",
+		"answers": [
+			{"answer": "A korlátolt felelősségű társaság.", "rigth": false },
+			{"answer": "Az egyéni cég.", "rigth": true },
+			{"answer": "A részvénytársaság.", "rigth": false },
+			{"answer": "Mindegyik rendelkezik.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem lehet apport gazdasági társaság alapítása során?",
+		"answers": [
+			{"answer": "Egy személyautó.", "rigth": false },
+			{"answer": "Egy találmány.", "rigth": false },
+			{"answer": "Szerződésen alapuló követelés.", "rigth": true },
+			{"answer": "A fentiek mindegyike lehet apport.", "rigth": false }
+		]
+	},
+ 	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Közkereseti társaság nem lehet egy korlátolt felelősségű társaságnak tagja.", "rigth": false },
+			{"answer": "Betéti társaság nem lehet egy közkereseti társaságnak tagja.", "rigth": true },
+			{"answer": "Korlátolt felelősségű társaság nem lehet egy betéti társaságnak beltagja.", "rigth": false },
+			{"answer": "Részvénytársaságnak csak természetes személyek lehetnek a tagjai.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyiket nem kezdeményezhetik a G.T. szavazati jogok 5%-ával rendelkező tagjai?",
+		"answers": [
+			{"answer": "Egyedi könyvvizsgálatot.", "rigth": false },
+			{"answer": "A legfőbb szerv összehívását.", "rigth": false },
+			{"answer": "Egy tag kizárását.", "rigth": true },
+			{"answer": "A társaság igényének érvényesítését egy taggal szemben.", "rigth": false }
+		]
+	},
+	{
+		"question": "Kik szavazhatnak a gazdasági társaság legfőbb szervének ülésén?",
+		"answers": [
+			{"answer": "A társaság tagjai.", "rigth": true },
+			{"answer": "A társaság tagjai és a vezető tisztségviselő.", "rigth": false },
+			{"answer": "A tagok és a felügyelő bizottság tagjai.", "rigth": false },
+			{"answer": "A tagok és a cégvezetők.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik tartozik a gazdasági társaság felügyelőbizottságának feladatai közé?",
+		"answers": [
+			{"answer": "A vezető tisztségviselő megválasztása és visszahívása.", "rigth": false },
+			{"answer": "A könyvvizsgáló ellenőrzése.", "rigth": false },
+			{"answer": "Az ügyvezetés ellenőrzése.", "rigth": true },
+			{"answer": "A beszámoló elkészítése.", "rigth": false }
+		]
+	},
+	{
+		"question": "A gazdasági társaság melyik szerve kezdeményezheti egy tag kizárását?",
+		"answers": [
+			{"answer": "A felügyelő bizottság.", "rigth": false },
+			{"answer": "A legfőbb szerv.", "rigth": true },
+			{"answer": "A vezető tisztségviselő.", "rigth": false },
+			{"answer": "Egyik sem, mert tagot nem lehet kizárni.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik szerv dönt a társaság jogutód nélküli megszűnéséről?",
+		"answers": [
+			{"answer": "A legfőbb szerv.", "rigth": true },
+			{"answer": "A felügyelő bizottság.", "rigth": false },
+			{"answer": "A vezető tisztségviselő.", "rigth": false },
+			{"answer": "A könyvvizsgáló. ", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis a Kft-re vonatkozóan?",
+		"answers": [
+			{"answer": "Kft. esetén a tagok törzsbetétei különböző mértékűek lehetnek.", "rigth": false },
+			{"answer": "Az egyes törzsbetétek mértéke legalább 100.000 Ft.", "rigth": false },
+			{"answer": "A törzstbetétek összege a törzstőke, melynek minimális mértéke 1 millió Ft.", "rigth": true },
+			{"answer": "Egy tagnak több üzletrésze is lehet.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A Bt. alaptőkéje nem lehet kevesebb, mint 100.000 Ft.", "rigth": true },
+			{"answer": "A Zrt. alaptőkéje nem lehet kevesebb, mint 5 millió Ft.", "rigth": false },
+			{"answer": "Az Nyrt. alaptőkéje nem lehet kevesebb, mint 20 millió Ft.", "rigth": false },
+			{"answer": "A közkereseti társaság alaptőkéjére nincs minimális előírás.", "rigth": false }
+		]
+	},
+	{
+		"question": "Kinek a tulajdona a betéti társaság vagyona?",
+		"answers": [
+			{"answer": "A beltagok közös tulajdona.", "rigth": false },
+			{"answer": "Valamennyi tag közös tulajdona.", "rigth": false },
+			{"answer": "A társaság tulajdona.", "rigth": true },
+			{"answer": "Az alapító tagok közös tulajdona. ", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "Az egyesülés jogi személyiséggel rendelkezik.", "rigth": false },
+			{"answer": "Az egyesülés vagyonát meghaladó tartozásaiért a tagok nem felelnek.", "rigth": true },
+			{"answer": "Az egyesülés saját nyereségre nem törekszik.", "rigth": false },
+			{"answer": "Az egyesülés célja a tagok tevékenységének összehangolása.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A szövetkezet tagjainak többsége természetes személy.", "rigth": true },
+			{"answer": "A szövetkezet valamennyi tagjának személyes közreműködést kell vállalnia.", "rigth": false },
+			{"answer": "Szövetkezeti jogvitára választott-bírósági eljárás nem köthető ki.", "rigth": false },
+			{"answer": "A szövetkezet nem rendelkezik jogi személyiséggel.", "rigth": false }
+		]
+	},
+	{
+		"question": "Hány személy alapíthat szövetkezetet?",
+		"answers": [
+			{"answer": "Legalább 2 személy.", "rigth": false },
+			{"answer": "Legalább 7 személy.", "rigth": true },
+			{"answer": "Legalább 10 személy.", "rigth": false },
+			{"answer": "Egy személy is alapíthat.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A szövetkezet közgyűlésén minden tagnak egy szavazata van.", "rigth": false },
+			{"answer": "Szövetkezetnél kötelező a könyvvizsgáló kinevezése.", "rigth": true },
+			{"answer": "Szövetkezetnél kötelező a felügyelőbizottság működése.", "rigth": false },
+			{"answer": "A szövetkezet ügyvezetését az igazgatóság látja el.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik szervezet nem vehet részt tagként vállalatcsoportban?",
+		"answers": [
+			{"answer": "Korlátolt felelősségű társaság.", "rigth": false },
+			{"answer": "Szövetkezet.", "rigth": false },
+			{"answer": "Egyesülés.", "rigth": false },
+			{"answer": "Betéti társaság.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis a vállalatcsoportra vonatkozóan?",
+		"answers": [
+			{"answer": "Legalább egy uralkodó tag és 3 ellenőrzött tag szükséges hozzá.", "rigth": false },
+			{"answer": "A cégbíróság a cégnyilvántartásba bejegyzi.", "rigth": false },
+			{"answer": "Az uralkodó tag nem utasíthatja az ellenőrzött tagokat.", "rigth": true },
+			{"answer": "Önálló jogi személyiséggel nem rendelkezik.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül ki nem lehet egyéni vállalkozó?",
+		"answers": [
+			{"answer": "17 éves, házasságot kötött személy.", "rigth": false },
+			{"answer": "Közkereseti társaság tagja.", "rigth": true },
+			{"answer": "Korlátolt felelősségű társaság tagja.", "rigth": false },
+			{"answer": "Betéti társaság kültagja.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik szervezet vezeti az egyéni vállalkozók nyilvántartását?",
+		"answers": [
+			{"answer": "A Nemzeti Adó és Vámhivatal (NAV).", "rigth": true },
+			{"answer": "A cégbíróság.", "rigth": false },
+			{"answer": "A törvényszék.", "rigth": false },
+			{"answer": "A céginformációs szolgálat.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Az egyéni vállalkozónak nem lehet alkalmazottja.", "rigth": false },
+			{"answer": "A tevékenység csak egyéni vállalkozói igazolvány kiállítása után végezhető.", "rigth": false },
+			{"answer": "Az egyéni vállalkozó a kötelezettségeiért csak vállalkozói vagyonával felel.", "rigth": false },
+			{"answer": "Az egyéni vállalkozó köteles személyesen közreműködni a tevékenység folytatásában.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis az egyéni cégre vonatkozóan?",
+		"answers": [
+			{"answer": "Az egyéni cég jogképes.", "rigth": false },
+			{"answer": "Az egyéni cég jogi személyiséggel rendelkezik.", "rigth": true },
+			{"answer": "Az egyéni céget a cégbíróság tartja nyilván.", "rigth": false },
+			{"answer": "Az egyéni cégnek cégjegyzékszáma van.", "rigth": false }
+		]
+	},
+	{
+		"question": "Ki alapíthat egyéni céget?",
+		"answers": [
+			{"answer": "Minden nagykorú, cselekvőképes személy.", "rigth": false },
+			{"answer": "Minden nagykorú, cselekvőképes magyar állampolgár.", "rigth": false },
+			{"answer": "Aki az egyéni vállalkozói nyilvántartásban szerepel.", "rigth": true },
+			{"answer": "Minden nagykorú, cselekvőképes személy, aki nem korlátlanul felelős tagja G.T.-nak.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem lehet egy egyéni cég alapításkori jegyzett tőkéje?",
+		"answers": [
+			{"answer": "100.000 Ft plusz egy 200.000 Ft értékű autó.", "rigth": false },
+			{"answer": "100.000 Ft plusz egy 100.000 Ft értékű autó.", "rigth": true },
+			{"answer": "Egy 300.000 Ft értékű autó. ", "rigth": false },
+			{"answer": "100.000 Ft.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A köztestület közfeladatot lát el.", "rigth": false },
+			{"answer": "A köztestületet a tagjai szabad elhatározásukkal hozzák létre.", "rigth": true },
+			{"answer": "A köztestület jogi személy.", "rigth": false },
+			{"answer": "A Magyar Orvosi Kamara is egy köztestület.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem köztestület?",
+		"answers": [
+			{"answer": "Magyar Tudományos Akadémia", "rigth": false },
+			{"answer": "Magyar Ügyvédi Kamara", "rigth": false },
+			{"answer": "Magyar Labdarúgó Szövetség", "rigth": true },
+			{"answer": "Mindhárom köztestület", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem köztestület?",
+		"answers": [
+			{"answer": "Magyar Tudományos Akadémia", "rigth": false },
+			{"answer": "Magyar Ügyvédi Kamara", "rigth": false },
+			{"answer": "Magyar Kereskedelmi és Iparkamara", "rigth": false },
+			{"answer": "Mindhárom köztestület", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem lehet közhasznú státuszú?",
+		"answers": [
+			{"answer": "A köztestület.", "rigth": true },
+			{"answer": "Az egyesület.", "rigth": false },
+			{"answer": "Az alapítvány.", "rigth": false },
+			{"answer": "A nonprofit Kft.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi jogalanyok közül melyiknek nincs cégjegyzékszáma?",
+		"answers": [
+			{"answer": "Az egyesülésnek.", "rigth": false },
+			{"answer": "A szövetkezetnek.", "rigth": false },
+			{"answer": "Az egyesületnek.", "rigth": true },
+			{"answer": "Az egyéni cégnek.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem a cégbíróság feladata?",
+		"answers": [
+			{"answer": "Cégbejegyzési eljárás lefolytatása.", "rigth": false },
+			{"answer": "Felszámolási eljárás lefolytatása.", "rigth": true },
+			{"answer": "Döntés a közhasznúvá minősítésről.", "rigth": false },
+			{"answer": "Törvényességi felügyeleti eljárás lefolytatása cégekkel kapcsolatban.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi esetek közül melyik fordulhat elő egy céggel kapcsolatban?",
+		"answers": [
+			{"answer": "Székhelye Vácon van, telephelye nincs, fióktelepe Vácon van.", "rigth": false },
+			{"answer": "Székhelye nincs, telephelye Vácon van, fióktelepe Vácon van.", "rigth": false },
+			{"answer": "Székhelye Vácon van, telephelye Vácon van, fióktelepe nincs.", "rigth": true },
+			{"answer": "Székhelye Vácon van, telephelye Vácon van, fióktelepe Vácon van.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A cégbejegyzési kérelmet csak elektronikus úton lehet benyújtani.", "rigth": false },
+			{"answer": "A cégbejegyzési eljárás nem-peres eljárás. ", "rigth": false },
+			{"answer": "A kérelmet a létesítő okirat aláírásától számított 30 napon belül kell benyújtani.", "rigth": false },
+			{"answer": "A cégbejegyzési eljárás során a jogi képviselet nem kötelező.", "rigth": true }
+		]
+	},
+	{
+		"question": "Ki dönt egy cég esetén a végelszámolásról?",
+		"answers": [
+			{"answer": "A cégbíróság.", "rigth": false },
+			{"answer": "A cég legfőbb szerve.", "rigth": true },
+			{"answer": "A vezető tisztségviselő.", "rigth": false },
+			{"answer": "A hitelező(k).", "rigth": false }
+		]
+	},
+	{
+		"question": "Mikor van helye egyszerűsített cégbejegyzési eljárásnak?",
+		"answers": [
+			{"answer": "Egyéni cég és Bt. alapításakor.", "rigth": false },
+			{"answer": "Ha a cég alaptőkéje nem haladja meg a 100.000 Ft-ot.", "rigth": false },
+			{"answer": "Ha a létesítő okirat szerződésminta alapján készült.", "rigth": true },
+			{"answer": "Ha a tagok száma egy fő.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mely cégeknek kell bankszámlával rendelkeznie?",
+		"answers": [
+			{"answer": "Csak a Zrt.-nek és az Nyrt.-nek.", "rigth": false },
+			{"answer": "A gazdasági társaságoknak.", "rigth": false },
+			{"answer": "A Zrt.-nek, Nyrt.-nek és a Kft.-nek.", "rigth": false },
+			{"answer": "Minden cégnek bankszámlával kell rendelkeznie.", "rigth": true }
+		]
+	},
+	{
+		"question": "Mennyi egy Zrt. egyszerűsített cégbejegyzési eljárásának illetéke?",
+		"answers": [
+			{"answer": "10.000 Ft", "rigth": false },
+			{"answer": "50.000 Ft", "rigth": true },
+			{"answer": "100.000 Ft", "rigth": false },
+			{"answer": "Az eljárás illetékmentes.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mennyi egy Kft. rendes (nem egyszerűsített) cégbejegyzési eljárásának illetéke?",
+		"answers": [
+			{"answer": "10.000 Ft", "rigth": false },
+			{"answer": "50.000 Ft", "rigth": false },
+			{"answer": "100.000 Ft", "rigth": false },
+			{"answer": "Az eljárás illetékmentes.", "rigth": true }
+		]
+	},
+	{
+		"question": "Ki képviseli a céget a végelszámolás kezdő időpontja után?",
+		"answers": [
+			{"answer": "A vezető tisztségviselő.", "rigth": false },
+			{"answer": "A vagyonfelügyelő.", "rigth": false },
+			{"answer": "A felügyelőbizottság elnöke.", "rigth": false },
+			{"answer": "A végelszámoló.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik eljárásnak nem célja a cég jogutód nélküli megszüntetése?",
+		"answers": [
+			{"answer": "A felszámolási eljárásnak.", "rigth": false },
+			{"answer": "A csődeljárásnak.", "rigth": true },
+			{"answer": "A végelszámolásnak.", "rigth": false },
+			{"answer": "Mindegyiknek az a célja.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mi a csődeljárás célja?",
+		"answers": [
+			{"answer": "A fizetésképtelen adós cég jogutód nélküli megszüntetése.", "rigth": false },
+			{"answer": "A nem fizetésképtelen cég jogutód nélküli megszüntetése.", "rigth": false },
+			{"answer": "Az adós cég fizetési haladékot kap a hitelezőkkel való megegyezés céljából.", "rigth": true },
+			{"answer": "Az adós cég vagyonának hatósági árverésen való értékesítése.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mi a végelszámolás célja?",
+		"answers": [
+			{"answer": "A fizetésképtelen adós cég jogutód nélküli megszüntetése.", "rigth": false },
+			{"answer": "A nem fizetésképtelen cég jogutód nélküli megszüntetése.", "rigth": true },
+			{"answer": "Az adós cég fizetési haladékot kap a hitelezőkkel való megegyezés céljából.", "rigth": false },
+			{"answer": "Az adós cég vagyonának hatósági árverésen való értékesítése.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mi a felszámolási eljárás célja?",
+		"answers": [
+			{"answer": "A fizetésképtelen adós cég jogutód nélküli megszüntetése.", "rigth": true },
+			{"answer": "A nem fizetésképtelen cég jogutód nélküli megszüntetése.", "rigth": false },
+			{"answer": "Az adós cég fizetési haladékot kap a hitelezőkkel való megegyezés céljából.", "rigth": false },
+			{"answer": "Az adós cég vagyonának hatósági árverésen való értékesítése.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik eljárás indul meg a cégbírósághoz benyújtott változásbejegyzési kérelemmel?",
+		"answers": [
+			{"answer": "Csődeljárás.", "rigth": false },
+			{"answer": "Végelszámolás.", "rigth": true },
+			{"answer": "Felszámolási eljárás.", "rigth": false },
+			{"answer": "A fentiek közül egyik sem.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik eljárást indíthatja meg a hitelező az adós cég ellen?",
+		"answers": [
+			{"answer": "A végelszámolást.", "rigth": false },
+			{"answer": "A csődeljárást.", "rigth": false },
+			{"answer": "A felszámolási eljárást.", "rigth": true },
+			{"answer": "Kényszer-törlési eljárást.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik eljárást milyen fórumon kell megindítani? Válassza ki a helyeset.",
+		"answers": [
+			{"answer": "Csődeljárást a cégbíróságon.", "rigth": false },
+			{"answer": "Felszámolási eljárást a rendes bíróságon (törvényszéken).", "rigth": true },
+			{"answer": "Végelszámolást a rendes bíróságon (törvényszéken).", "rigth": false },
+			{"answer": "Cégbejegyzési eljárást a rendes bíróságon (törvényszéken).", "rigth": false }
+		]
+	},
+	{
+		"question": "Kivel szemben nem illeti meg a birtokvédelem joga a birtokost?",
+		"answers": [
+			{"answer": "A tulajdonossal szemben.", "rigth": false },
+			{"answer": "A hitelezővel szemben.", "rigth": false },
+			{"answer": "Azzal szemben, akitől a dolgot tilos önhatalommal szerezte meg.", "rigth": true },
+			{"answer": "Kivétel nélkül mindenkivel szemben megilleti.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyek a birtokvédelem megengedett eszközei?",
+		"answers": [
+			{"answer": "Minden esetben a bírósághoz kell fordulni.", "rigth": false },
+			{"answer": "Minden esetben a jegyzőhöz kell fordulni.", "rigth": false },
+			{"answer": "Minden esetben a rendőrséghez kell fordulni.", "rigth": false },
+			{"answer": "Bírósághoz vagy jegyzőhöz fordulás, speciális esetben önhatalommal való fellépés.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem tartozik a \"szükséges költségek\" körébe?",
+		"answers": [
+			{"answer": "Az állagmegóvásra fordított költségek.", "rigth": false },
+			{"answer": "A kártól való megóvásra fordított költségek.", "rigth": false },
+			{"answer": "A dolog értékét növelő költségek.", "rigth": true },
+			{"answer": "Mindhárom fenti a \"szükséges\" költségek körébe tartozik.", "rigth": false }
+		]
+	},
+	{
+		"question": "Milyen költségei megtérítését követelheti a rosszhiszemű jogalap nélküli birtokos?",
+		"answers": [
+			{"answer": "A dologra fordított szükséges költségei megtérítését.", "rigth": true },
+			{"answer": "A dologra fordított hasznos költségei megtérítését.", "rigth": false },
+			{"answer": "A szükséges és hasznos költségei megtérítését is követelheti.", "rigth": false },
+			{"answer": "Semmilyen költségei megtérítését nem követelheti.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem lehet tulajdonjog tárgya?",
+		"answers": [
+			{"answer": "Az elektromos energia (villamos áram).", "rigth": false },
+			{"answer": "A szellemi alkotás.", "rigth": true },
+			{"answer": "Az állatok.", "rigth": false },
+			{"answer": "Az értékpapír.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi 3 állítás közül melyik hamis?",
+		"answers": [
+			{"answer": "Az ingatlan tulajdonosa a használat jogát másnak átengedheti.", "rigth": false },
+			{"answer": "Az ingatlan tulajdonosa a tulajdonjogát másra átruházhatja.", "rigth": false },
+			{"answer": "Az ingatlan tulajdonosa a tulajdonjogával felhagyhat.", "rigth": true },
+			{"answer": "Mindhárom előző állítás igaz.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Szükséghelyzetben okozott kár esetén a (károsult) tulajdonos kártérítést követelhet.", "rigth": false },
+			{"answer": "Közérdekű használat esetén a tulajdonost kártérítés illeti meg.", "rigth": false },
+			{"answer": "Kisajátítás esetén a tulajdonost kártérítés illeti meg.", "rigth": false },
+			{"answer": "Mindhárom fenti esetben kártalanítás és nem kártérítés illeti meg a tulajdonost.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Jogellenes károkozás esetén a (károsult) tulajdonos kártérítést követelhet.", "rigth": true },
+			{"answer": "Közérdekű használat esetén a tulajdonost kártérítés illeti meg.", "rigth": false },
+			{"answer": "Kisajátítás esetén a tulajdonost kártérítés illeti meg.", "rigth": false },
+			{"answer": "Mindhárom fenti esetben kártalanítás és nem kártérítés illeti meg a tulajdonost.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik tulajdonszerzési mód származékos?",
+		"answers": [
+			{"answer": "Tulajdon átruházás.", "rigth": true },
+			{"answer": "Hatósági árverés útján való tulajdonszerzés.", "rigth": false },
+			{"answer": "Elbirtoklás.", "rigth": false },
+			{"answer": "Kisajátítás.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mikor száll át az ingatlan tulajdonjoga átruházás esetén?",
+		"answers": [
+			{"answer": "A szerződés megkötésekor.", "rigth": false },
+			{"answer": "A felek által a szerződésben meghatározott időpontban.", "rigth": false },
+			{"answer": "A birtokbaadáskor.", "rigth": false },
+			{"answer": "Az új tulajdonosnak az ingatlan-nyilvántartásba való bejegyzésével.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "Kisajátítás csak közérdekű célra lehetséges.", "rigth": false },
+			{"answer": "Kisajátítani csak ingatlant lehet.", "rigth": false },
+			{"answer": "A kisajátítást csak az állam kérheti.", "rigth": true },
+			{"answer": "A kisajátítási eljárás során a kisajátítási hatóság tárgyalást tart.", "rigth": false }
+		]
+	},
+ 	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Az ingatlan elbirtoklási ideje 10 év.", "rigth": false },
+			{"answer": "Bűncselekménnyel megszerzett dolgon nem következik be az elbirtoklás.", "rigth": true },
+			{"answer": "Ingatlan elbirtoklásához a tulajdonjogot az ingatlan-nyilvántartásba be kell jegyezni.", "rigth": false },
+			{"answer": "Elbirtoklással csak ingó dolog tulajdonjogát lehet megszerezni.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "Villamoson felejtett dolgon nem lehet találással tulajdont szerezni.", "rigth": false },
+			{"answer": "Gazdátlan dolgon nem lehet találással tulajdont szerezni.", "rigth": false },
+			{"answer": "A találó csak akkor válik tulajdonossá, ha a korábbi tulajdonos 1 éven belül nem jelentkezik.", "rigth": false },
+			{"answer": "A találás származékos tulajdonszerzési mód.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis a zálogjogviszony esetén?",
+		"answers": [
+			{"answer": "A jogviszony alanya a személyes kötelezett és a zálogjogosult.", "rigth": true },
+			{"answer": "A zálogtárgy tulajdonosa a zálogkötelezett.", "rigth": false },
+			{"answer": "A zálogjogosult kielégítési joga akkor nyílik meg, ha a személyes kötelezett nem teljesít. ", "rigth": false },
+			{"answer": "A zálogkötelezett csak a zálogtárggyal felel a zálogjogosultnak. ", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis a zálogjogviszony esetén?",
+		"answers": [
+			{"answer": "A jogviszony alanya a zálogkötelezett és a zálogjogosult.", "rigth": false },
+			{"answer": "A zálogtárgy tulajdonosa a zálogjogosult.", "rigth": true },
+			{"answer": "A zálogjogosult kielégítési joga akkor nyílik meg, ha a személyes kötelezett nem teljesít. ", "rigth": false },
+			{"answer": "A zálogkötelezett csak a zálogtárggyal felel a zálogjogosultnak. ", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis a zálogjogviszony esetén?",
+		"answers": [
+			{"answer": "A jogviszony alanya a zálogkötelezett és a zálogjogosult.", "rigth": false },
+			{"answer": "A zálogtárgy tulajdonosa a zálogkötelezett.", "rigth": false },
+			{"answer": "A zálogjogosult kielégítési joga akkor nyílik meg, ha a személyes kötelezett nem teljesít. ", "rigth": false },
+			{"answer": "A zálogkötelezett teljes vagyonával felel a zálogjogosultnak. ", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis a zálogjogviszony esetén?",
+		"answers": [
+			{"answer": "Az óvadék is a zálog egy fajtája.", "rigth": false },
+			{"answer": "Jelzálogjog csak ingatlanon alapítható.", "rigth": true },
+			{"answer": "Kézizálogjog tárgya csak ingó dolog lehet.", "rigth": false },
+			{"answer": "A személyes kötelezett és a zálogkötelezett lehet ugyanaz a személy.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyiket nem teheti meg a haszonélvezeti jog jogosultja?",
+		"answers": [
+			{"answer": "A dolgot nem hasznosíthatja.", "rigth": false },
+			{"answer": "A haszonélvezeti jogot nem ruházhatja át.", "rigth": true },
+			{"answer": "A dolgot nem tarthatja a birtokában.", "rigth": false },
+			{"answer": "A fenti 3 mindegyikét megteheti.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi esetek közül melyikben nem használhatja a birtokos a dolgot?",
+		"answers": [
+			{"answer": "Haszonkölcsön esetén.", "rigth": false },
+			{"answer": "Kézizálog esetén.", "rigth": true },
+			{"answer": "Haszonélvezeti jog esetén.", "rigth": false },
+			{"answer": "A fenti esetek mindegyikében használhatja.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik magatartásra nem irányulhat a kötelem?",
+		"answers": [
+			{"answer": "Valaminek az adására.", "rigth": false },
+			{"answer": "Valamilyen tevékenység elvégzésére.", "rigth": false },
+			{"answer": "Valamitől való tartózkodásra.", "rigth": false },
+			{"answer": "Mindegyik fenti magatartásra irányulhat.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyikből nem keletkezhet kötelem?",
+		"answers": [
+			{"answer": "Jogalap nélküli gazdagodásból.", "rigth": false },
+			{"answer": "Személyiségi jog megsértéséből.", "rigth": false },
+			{"answer": "Utaló magatartásból.", "rigth": false },
+			{"answer": "A fentiek mindegyikéből keletkezhet.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik károkozás jogellenes?",
+		"answers": [
+			{"answer": "A károsult beleegyezésével okozott kár.", "rigth": false },
+			{"answer": "Jogtalan támadás elhárítása során a támadónak okozott kár.", "rigth": false },
+			{"answer": "Szükséghelyzetben okozott kár.", "rigth": false },
+			{"answer": "A fentiek egyike sem jogellenes.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik esetben keletkezik kötelem (kötelezettség)?",
+		"answers": [
+			{"answer": "Jogtalan támadás elhárítása során a támadónak okozott kár esetén.", "rigth": false },
+			{"answer": "A károsult beleegyezésével okozott kár esetén.", "rigth": false },
+			{"answer": "Szükséghelyzetben okozott kár esetén.", "rigth": true },
+			{"answer": "Egyik esetben sem keletkezik.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Kártérítési kötelezettséghez nem szükséges a kár bekövetkezése.", "rigth": false },
+			{"answer": "A kár bekövetkezését a károsultnak kell bizonyítania.", "rigth": true },
+			{"answer": "Akit személyiségi jogában megsértenek, kártérítést követelhet.", "rigth": false },
+			{"answer": "Akit személyiségi jogában megsértenek, kártalanítást követelhet. ", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A sérelemdíj megállapításához nem szükséges kár bekövetkezése.", "rigth": true },
+			{"answer": "A becsületsértésért büntetőeljárásban kérhető sérelemdíj.", "rigth": false },
+			{"answer": "A becsületsértésért megítélt pénzbüntetés a sértettet illeti.", "rigth": false },
+			{"answer": "A személyiségi jog megsértése bűncselekmény.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Az ajándékozás egyoldalú nyilatkozat.", "rigth": false },
+			{"answer": "Ha valaki nyilvánosan díjat ígér egy teljesítményért, nem köteles azt teljesíteni.", "rigth": false },
+			{"answer": "Ha valaki közérdekű célra vállal kötelezettséget, az egy szerződés az állammal.", "rigth": false },
+			{"answer": "A szerződés soha nem lehet egyoldalú nyilatkozat.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Ha valaki tévedésből többet utal át a vételárnál, nem követelheti azt vissza.", "rigth": false },
+			{"answer": "Ha valaki tévedésből többet utal át a vételárnál, az ajándékozásnak minősül.", "rigth": false },
+			{"answer": "Ha valaki tévedésből többet utal át, a többletet a másik köteles visszatéríteni.", "rigth": true },
+			{"answer": "Ha valaki tévedésből többet utal át, a többlet felét visszakövetelheti.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Értékpapírt csak írásban, okirati formában lehet kibocsátani.", "rigth": false },
+			{"answer": "Az értékpapír egy szerződés a kibocsátó és a jogosult között.", "rigth": false },
+			{"answer": "Az értékpapírban foglalt követelés nem átruházható.", "rigth": false },
+			{"answer": "A befektetési jegy az értékpapír egyik fajtája.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A váltó hitelviszonyt megtestesítő értékpapír.", "rigth": false },
+			{"answer": "A kötvény tagsági jogokat megtestesítő értékpapír.", "rigth": true },
+			{"answer": "A részvény tagsági jogokat megtestesítő értékpapír.", "rigth": false },
+			{"answer": "A közraktári jegy dologi jogot megtestesítő értékpapír.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi esetek közül melyikben nem szűnik meg a kötelem (fő szabály szerint)?",
+		"answers": [
+			{"answer": "A szolgáltatás teljesítésével.", "rigth": false },
+			{"answer": "A kötelezett halálával.", "rigth": false },
+			{"answer": "Tartozásátvállalás esetén.", "rigth": true },
+			{"answer": "A jogosult jogutód nélküli megszűnése esetén.", "rigth": false }
+		]
+	},
+	{
+		"question": "Hányféle formában lehet jognyilatkozatot tenni? Sorolja is fel őket.",
+		"answers": [
+			{"answer": "2, amelyek a következők: szóban, írásban", "rigth": false },
+			{"answer": "3, amelyek a következők: szóban, írásban, ráutaló magatartással", "rigth": true },
+			{"answer": "4, amelyek a következők: szóban, írásban, tettlegesen, ráutaló magatartással", "rigth": false },
+			{"answer": "5, amelyek a következők: szóban, írásban, gondolatban, tettlegesen, ráutaló magatartással", "rigth": false }
+		]
+	},
+	{
+		"question": "Mikor minősül a jognyilatkozat írásba foglaltnak?",
+		"answers": [
+			{"answer": "Ha a nyilatkozó saját kezűleg írta.", "rigth": false },
+			{"answer": "Ha két tanú aláírta.", "rigth": false },
+			{"answer": "Ha a nyilatkozó aláírta.", "rigth": true },
+			{"answer": "Ha ügyvéd aláírta.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül ki nem készíthet közokiratot?",
+		"answers": [
+			{"answer": "Ügyvéd.", "rigth": true },
+			{"answer": "Bíróság.", "rigth": false },
+			{"answer": "Közjegyző.", "rigth": false },
+			{"answer": "Közigazgatási szerv.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A képviseleti jog alapulhat vállalkozási szerződésen.", "rigth": true },
+			{"answer": "A képviseleti jog alapulhat létesítő okiraton.", "rigth": false },
+			{"answer": "A képviseleti jog alapulhat meghatalmazáson.", "rigth": false },
+			{"answer": "A képviseleti jog alapulhat jogszabályon. ", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Jognyilatkozatot csak személyesen lehet tenni.", "rigth": false },
+			{"answer": "A képviselő jognyilatkozata a képviselőt jogosítja és kötelezi.", "rigth": false },
+			{"answer": "A meghatalmazás egyoldalú jognyilatkozat.", "rigth": true },
+			{"answer": "A meghatalmazás szóban nem érvényes.", "rigth": false }
+		]
+	},
+	{
+		"question": "Hány év alatt évülnek el a követelések (fő szabály szerint)?",
+		"answers": [
+			{"answer": "3 év alatt.", "rigth": false },
+			{"answer": "5 év alatt. ", "rigth": true },
+			{"answer": "1 év alatt.", "rigth": false },
+			{"answer": "A követelések nem évülnek el.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Elévült követelés bírósági eljárásban csak jogi képviselettel érvényesíthető.", "rigth": false },
+			{"answer": "Ha valaki elévült követelést teljesít, utóbb visszakövetelheti azt.", "rigth": false },
+			{"answer": "A fogadásból eredő követelés bíróság előtt 1 évig érvényesíthető.", "rigth": false },
+			{"answer": "Mindhárom fenti állítás hamis.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás a legpontosabb a szerződésre vonatkozóan?",
+		"answers": [
+			{"answer": "A szerződés a felek egyidejű és egybehangzó jognyilatkozata.", "rigth": false },
+			{"answer": "A szerződés a felek kölcsönös és egyidejű jognyilatkozata.", "rigth": false },
+			{"answer": "A szerződés a felek kölcsönös és egybehangzó jognyilatkozata.", "rigth": true },
+			{"answer": "A szerződés a felek kölcsönös, egybehangzó és egyidejű jognyilatkozata.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem tartozik a szerződési jog legfontosabb alapelvei közé?",
+		"answers": [
+			{"answer": "A szerződési szabadság elve.", "rigth": false },
+			{"answer": "A visszterhesség vélelme.", "rigth": false },
+			{"answer": "Az együttműködési és tájékoztatási kötelezettség.", "rigth": false },
+			{"answer": "A gyengébb fél érdekei védelmének az elve.", "rigth": true }
+		]
+	},
+	{
+		"question": "Mi történik ha a felek szerződési nyilatkozatai lényeges kérdésben eltérnek?",
+		"answers": [
+			{"answer": "A szerződés megtámadható lesz.", "rigth": false },
+			{"answer": "A szerződés érvénytelen lesz.", "rigth": false },
+			{"answer": "A szerződés nem jön létre.", "rigth": true },
+			{"answer": "A bíróság ítéletével kiküszöböli az eltérést.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis az ajánlatra vonatkozóan?",
+		"answers": [
+			{"answer": "Aki ajánlatot tesz, meghatározott ideig kötve van az ajánlathoz.", "rigth": false },
+			{"answer": "Az ajánlati kötöttség idejét a felek közösen határozzák meg.", "rigth": true },
+			{"answer": "Ha a másik fél határidőben elfogadja az ajánlatot, a szerződés létrejön.", "rigth": false },
+			{"answer": "Ha a másik fél eltérő tartalommal fogadja el, az új ajánlatnak minősül.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyikből nem származhat szerződéskötési kötelezettség?",
+		"answers": [
+			{"answer": "Jogszabályból.", "rigth": false },
+			{"answer": "Versenyeztetési eljárásból.", "rigth": false },
+			{"answer": "Előszerződésből.", "rigth": false },
+			{"answer": "Mindhárom fentiből származhat.", "rigth": true }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Az Általános Szerződési Feltételeket a felek előre, közösen határozzák meg.", "rigth": false },
+			{"answer": "A fogyasztó csak természetes személy lehet.", "rigth": true },
+			{"answer": "Távollévők között kötött szerződés létrejöhet két vállalkozás között is.", "rigth": false },
+			{"answer": "Fogyasztói szerződés esetén a fogyasztót 14 napon belül elállási jog illeti meg.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az érvénytelenségnek hányféle formája van a polgári jogban, és melyek ezek?",
+		"answers": [
+			{"answer": "3, éspedig a következők: semmisség, megtámadhatóság, elévülés", "rigth": false },
+			{"answer": "2, éspedig a következők: semmisség, megtámadhatóság", "rigth": true },
+			{"answer": "1, éspedig a következő: semmisség", "rigth": false },
+			{"answer": "A polgári jogban nem létezik az érvénytelenség fogalma.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik a célzott joghatás hibája?",
+		"answers": [
+			{"answer": "A tévedés.", "rigth": false },
+			{"answer": "A megtévesztés.", "rigth": false },
+			{"answer": "A jó erkölcsbe ütközés.", "rigth": true },
+			{"answer": "A jogellenes fenyegetés.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi esetek közül melyikben merül fel a szerződési akarat hibája?",
+		"answers": [
+			{"answer": "A megtévesztéssel kötött szerződés.", "rigth": true },
+			{"answer": "Az uzsorás szerződés.", "rigth": false },
+			{"answer": "A jogszabályba ütköző szerződés.", "rigth": false },
+			{"answer": "A nem megfelelő formában megkötött szerződés.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "A jogszabályba ütköző szerződés megtámadható.", "rigth": false },
+			{"answer": "A jogellenes fenyegetéssel kötött szerződés semmis.", "rigth": false },
+			{"answer": "Az uzsorás szerződés semmis.", "rigth": true },
+			{"answer": "Mindhárom fenti állítás hamis.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyiknek a jogkövetkezménye a szerződés semmissége?",
+		"answers": [
+			{"answer": "A feltűnő értékaránytalansággal kötött szerződés.", "rigth": false },
+			{"answer": "A megtévesztéssel kötött szerződés.", "rigth": false },
+			{"answer": "A jó erkölcsbe ütköző szerződés.", "rigth": true },
+			{"answer": "A jogellenes fenyegetéssel kötött szerződés.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "Érvénytelen szerződés alapján a teljesítés nem követelhető.", "rigth": false },
+			{"answer": "Hatálytalan szerződés alapján a teljesítés nem követelhető.", "rigth": false },
+			{"answer": "Érvénytelen szerződés alapján teljesített szolgáltatást nem lehet visszakövetelni.", "rigth": true },
+			{"answer": "Érvénytelen szerződés utóbb érvényessé válhat a felek akaratából.", "rigth": false }
+		]
+	},
+	{
+		"question": "Szerződésszegés esetén melyiket nem teheti meg a sérelmet szenvedett fél?",
+		"answers": [
+			{"answer": "Továbbra is követelheti a teljesítést.", "rigth": false },
+			{"answer": "Fedezeti szerződést köthet és követelheti annak költségeit.", "rigth": false },
+			{"answer": "A nála levő, a másik fél tulajdonát képező dologból kielégítést kereshet.", "rigth": true },
+			{"answer": "A saját szolgáltatását visszatarthatja.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem tartozik a szerződésszegés nevesített esetei közé?",
+		"answers": [
+			{"answer": "A késedelem.", "rigth": false },
+			{"answer": "Az elállás.", "rigth": true },
+			{"answer": "A lehetetlenülés.", "rigth": false },
+			{"answer": "A teljesítés megtagadása.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "Ha jogosult késedelembe esik a kárveszély átszáll rá.", "rigth": false },
+			{"answer": "Ha a hiba a teljesítés után keletkezett, szavatossági igény nem érvényesíthető.", "rigth": false },
+			{"answer": "Ha a teljesítés lehetetlenné válik, a szerződés megtámadható.", "rigth": true },
+			{"answer": "A kellékszavatossági igények 1 év alatt elévülnek.", "rigth": false }
+		]
+	},
+	{
+		"question": "Mennyi a kellékszavatossági igények elévülési ideje fogyasztói szerződés esetén?",
+		"answers": [
+			{"answer": "1 év", "rigth": false },
+			{"answer": "2 év", "rigth": true },
+			{"answer": "5 év", "rigth": false },
+			{"answer": "Fogyasztói szerződés esetén ezen igények nem évülnek el.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyiket nem választhatja a fogyasztó termékszavatossági igényként?",
+		"answers": [
+			{"answer": "A kijavítást.", "rigth": false },
+			{"answer": "A kicserélést.", "rigth": false },
+			{"answer": "Az elállást.", "rigth": true },
+			{"answer": "Mindhármat választhatja.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz a jótállásra vonatkozóan?",
+		"answers": [
+			{"answer": "A jótállás minden szerződés esetén megilleti a szolgáltatás jogosultját.", "rigth": false },
+			{"answer": "A szavatosság és a jótállás ugyanazt jelenti.", "rigth": false },
+			{"answer": "A jótállási idő nem lehet hosszabb 5 évnél.", "rigth": false },
+			{"answer": "A jótállás lehet önkéntes vagy kötelező.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbi alanyváltozások közül melyik háromoldalú megállapodás?",
+		"answers": [
+			{"answer": "A jogátruházás.", "rigth": false },
+			{"answer": "Az engedményezés.", "rigth": false },
+			{"answer": "A tartozásátvállalás.", "rigth": true },
+			{"answer": "Egyik sem.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A szerződés felmondása egyoldalú jognyilatkozat.", "rigth": false },
+			{"answer": "Az elállás a jövőre nézve szünteti meg a szerződést.", "rigth": true },
+			{"answer": "A szerződés felbontása a felek közös nyilatkozata.", "rigth": false },
+			{"answer": "A felek a szerződést bármikor megszüntethetik.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik jog nem alapítható (szerezhető meg) bármikor?",
+		"answers": [
+			{"answer": "Az eladási jog.", "rigth": false },
+			{"answer": "A vételi jog.", "rigth": false },
+			{"answer": "A visszavásárlási jog.", "rigth": true },
+			{"answer": "Az elővásárlási jog.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "Az eladási jog jogosultja egyoldalú nyilatkozattal eladhatja a dolgot.", "rigth": false },
+			{"answer": "Az elővásárlási jog jogosultja egyoldalú nyilatkozattal megveheti a dolgot.", "rigth": true },
+			{"answer": "A vételi jog jogosultja egyoldalú nyilatkozattal megveheti a dolgot.", "rigth": false },
+			{"answer": "A visszavásárlási jog jogosultja egyoldalú nyilatkozattal megveheti a dolgot.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyiket nem kell az ingatlan-nyilvántartásba bejegyeztetni?",
+		"answers": [
+			{"answer": "A tulajdonjog fenntartást.", "rigth": false },
+			{"answer": "A vételi jogot.", "rigth": false },
+			{"answer": "Az eladási jogot.", "rigth": false },
+			{"answer": "Mindhárom fentit be kell jegyeztetni.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyiket nem kell az ingatlan-nyilvántartásba bejegyeztetni?",
+		"answers": [
+			{"answer": "A tulajdonjog fenntartást.", "rigth": false },
+			{"answer": "A vételi jogot.", "rigth": false },
+			{"answer": "Az elbirtoklás megkezdődését.", "rigth": true },
+			{"answer": "Mindhárom fentit be kell jegyeztetni.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás igaz?",
+		"answers": [
+			{"answer": "Az ajándékozás egyoldalú jognyilatkozat.", "rigth": false },
+			{"answer": "Ajándékozás történhet ellenérték fejében is.", "rigth": false },
+			{"answer": "Az ajándék egyes esetekben visszakövetelhető.", "rigth": true },
+			{"answer": "Az ajándékozásra a jogalap nélküli gazdagodás szabályait kell alkalmazni.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis a vállalkozási szerződésre vonatkozóan?",
+		"answers": [
+			{"answer": "A vállalkozási szerződés eredménykötelem.", "rigth": false },
+			{"answer": "A megrendelő a teljesítés előtt bármikor elállhat.", "rigth": false },
+			{"answer": "A vállalkozó a teljesítés előtt bármikor elállhat.", "rigth": true },
+			{"answer": "A vállalkozót törvényes zálogjog illeti meg.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem a vállalkozási szerződés altípusa?",
+		"answers": [
+			{"answer": "A tervezési szerződés.", "rigth": false },
+			{"answer": "A fuvarozási szerződés.", "rigth": false },
+			{"answer": "A szállítmányozási szerződés.", "rigth": true },
+			{"answer": "A kivitelezési szerződés.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A megbízási szerződés eredménykötelem.", "rigth": true },
+			{"answer": "A megbízó a szerződést felmondhatja.", "rigth": false },
+			{"answer": "A megbízott a szerződést felmondhatja.", "rigth": false },
+			{"answer": "A megbízottat törvényes zálogjog illeti meg.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem a megbízási szerződés altípusa?",
+		"answers": [
+			{"answer": "A bizományi szerződés.", "rigth": false },
+			{"answer": "A szállítmányozási szerződés.", "rigth": false },
+			{"answer": "A közvetítői szerződés.", "rigth": false },
+			{"answer": "A fuvarozási szerződés.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik nem minősül különleges adatnak?",
+		"answers": [
+			{"answer": "Az érintett egészségi állapota.", "rigth": false },
+			{"answer": "Az érintett vagyoni helyzete.", "rigth": true },
+			{"answer": "Az érintett vallási meggyőződése.", "rigth": false },
+			{"answer": "Az érintett politikai véleménye.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi műveletek közül melyik nem minősül adatkezelésnek?",
+		"answers": [
+			{"answer": "Az adatok gyűjtése.", "rigth": false },
+			{"answer": "Az adatok tárolása.", "rigth": false },
+			{"answer": "Az adatok lekérdezése.", "rigth": false },
+			{"answer": "Mind a három fenti művelet adatkezelésnek minősül.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbi műveletek közül melyik minősül adatfeldolgozásnak?",
+		"answers": [
+			{"answer": "Az adatok gyűjtése.", "rigth": false },
+			{"answer": "Az adatkezelő megbízásából végzett adatkezelési műveletek elvégzése.", "rigth": true },
+			{"answer": "Az adatok lekérdezése.", "rigth": false },
+			{"answer": "Mind a három fenti művelet adatfeldolgozásnak minősül.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi 3 állítás közül melyik hamis?",
+		"answers": [
+			{"answer": "Személyes adatok kezeléséhez elég ha az érintett szóban hozzájárult.", "rigth": false },
+			{"answer": "Különleges adat csak törvényi előírás alapján kezelhető.", "rigth": true },
+			{"answer": "Bűnügyi személyes adatot csak állami vagy önkormányzati szerv kezelhet.", "rigth": false },
+			{"answer": "Mind a három fenti állítás igaz.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbi adatkezelők közül melyiknél nem kötelező adatvédelmi tisztviselő alkalmazása?",
+		"answers": [
+			{"answer": "Állami feladatot ellátó adatkezelő szervezetnél.", "rigth": false },
+			{"answer": "Bíróságoknál.", "rigth": true },
+			{"answer": "Közfeladatot ellátó adatkezelő szervezetnél.", "rigth": false },
+			{"answer": "Mindhárom fenti esetben kötelező.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak jogok közül melyikkel nem rendelkezik a személyes adatok érintettje?",
+		"answers": [
+			{"answer": "A törléshez való joggal. ", "rigth": false },
+			{"answer": "A helyesbítéshez való joggal.", "rigth": false },
+			{"answer": "Az előzetes tájékozódáshoz való joggal.", "rigth": false },
+			{"answer": "Mindhárom fenti joggal rendelkezik.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbi állítások közül melyik hamis?",
+		"answers": [
+			{"answer": "A NAIH elnökét a köztársasági elnök nevezi ki 9 évre.", "rigth": false },
+			{"answer": "Az adatigénylésnek a közfeladatot ellátó szerv 15 napon belül köteles eleget tenni.", "rigth": false },
+			{"answer": "Az adatigénylés költségtérítése a kézbesítés költségét nem tartalmazhatja.", "rigth": true },
+			{"answer": "Adatigénylés benyújtása esetén a jogi képviselet nem kötelező.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik esetben nem tiltakozhat az érintett személyes adatának kezelése ellen?",
+		"answers": [
+			{"answer": "Közvetlen üzletszerzés céljára történő felhasználás esetén.", "rigth": false },
+			{"answer": "Közvélemény kutatási célú felhasználás esetén.", "rigth": false },
+			{"answer": "Tudományos célú felhasználás esetén.", "rigth": false },
+			{"answer": "Mindhárom fenti esetben tiltakozhat.", "rigth": true }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik esetben nem tiltakozhat az érintett, személyes adatának kezelése ellen?",
+		"answers": [
+			{"answer": "Közvetlen üzletszerzés céljára történő felhasználás esetén.", "rigth": false },
+			{"answer": "Közvélemény kutatási célú felhasználás esetén.", "rigth": false },
+			{"answer": "Ha az adatkezelést közérdekű célból törvény rendeli el.", "rigth": true },
+			{"answer": "Mindhárom fenti esetben tiltakozhat.", "rigth": false }
+		]
+	},
+	{
+		"question": "Az alábbiak közül melyik alkotás nem áll a szerzői jog védelme alatt?",
+		"answers": [
+			{"answer": "Ötlet, eljárás.", "rigth": true },
+			{"answer": "Szoftver", "rigth": false },
+			{"answer": "Adatbázis", "rigth": false },
+			{"answer": "Térkép", "rigth": false }
+		]
+	},
+	{
+		"question": "Mennyi ideig védi a szerzői jog a művet?",
+		"answers": [
+			{"answer": "50 évig.", "rigth": false },
+			{"answer": "A szerző élete végéig.", "rigth": false },
+			{"answer": "A szerző életében és halála után 70 évig.", "rigth": true },
+			{"answer": "20 évig.", "rigth": false }
+		]
+	},
+	{
+		"question": "Melyik állítás hamis?",
+		"answers": [
+			{"answer": "A felhasználási engedély korlátozható valamely területre.", "rigth": false },
+			{"answer": "A felhasználási engedély korlátozható megadott időtartamra.", "rigth": false },
+			{"answer": "A felhasználási engedély korlátozható valamely felhasználási módra.", "rigth": false },
+			{"answer": "A felhasználási engedély szóban is érvényes.", "rigth": true }
+		]
+	},
+	{
+		"question": "Mennyi ideig védi a szabadalmi oltalom a találmányt?",
+		"answers": [
+			{"answer": "10 évig.", "rigth": false },
+			{"answer": "20 évig.", "rigth": true },
+			{"answer": "A szabadalmas élete végéig.", "rigth": false },
+			{"answer": "A szabadalmas életében és halála után 20 évig.", "rigth": false }
+		]
+	}
+]
