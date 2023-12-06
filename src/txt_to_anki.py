@@ -19,21 +19,21 @@ class TxtToAnki:
         for i in range(len(chapters)):
             chapters[i] = chapters[i].strip("-").strip()
 
-        regex = r"^\d+_.+$"
-        chapter_titles = [chapter for chapter in chapters if re.match(regex, chapter)]
-        chapters = [chapter for chapter in chapters if not re.match(regex, chapter)]
+        re_chapter = r"^\d+_.+$"
+        chapter_titles = [chapter for chapter in chapters if re.match(re_chapter, chapter)]
+        chapters = [chapter for chapter in chapters if not re.match(re_chapter, chapter)]
 
         for i in range(len(chapter_titles)):
-            self.chapter_counts[chapter_titles[i]] = chapters[i].count("\n\n") + 1
+            self.chapter_counts[chapter_titles[i]] = chapters[i].count("\n\n")
 
         self.content = "\n".join(chapters)
         self.chapter_titles = chapter_titles
 
     def format(self):
         # split the content into cards
-        regex = r"^\d+(?:\.|\/\D\.)"
+        re_question = r"^\d+(?:\.|\/\D\.)" 
 
-        cards = re.split(regex, self.content, flags=re.MULTILINE)
+        cards = re.split(re_question, self.content, flags=re.MULTILINE)
 
         cards.pop(0)
 
@@ -53,7 +53,7 @@ class TxtToAnki:
             cards[i] = f"{question}<br>{lines}\t{correct_answer}\t{chapter_title}"
 
             self.chapter_counts[chapter_title] -= 1
-            if self.chapter_counts[chapter_title] == 0:
+            if self.chapter_counts[chapter_title] == 0 and chapter_counter < len(self.chapter_counts) - 1:
                 chapter_counter += 1
 
         self.content = "\n".join(cards)
